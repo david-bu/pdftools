@@ -1,0 +1,6 @@
+[submodule "poppler"]
+	path = pdfhelper/src/main/cpp/poppler
+	url = https://github.com/david-bu/poppler
+[submodule "freetype"]
+	path = pdfhelper/src/main/cpp/freetype
+	url = https://github.com/david-bu/freetype.git
